@@ -1,0 +1,30 @@
+body {
+    background-color: lightgreen;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+p {
+    color: black;
+}
+
+.header {
+    background-color: yellow;
+    padding: 20px;
+    margin: 20px;
+}
+
+.content {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+}
+
+.footer {
+    background-color: lightblue;
+    padding: 20px;
+    margin: 20px;
+}
